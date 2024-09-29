@@ -1,5 +1,5 @@
 /*
- * Copyright 2018 José A. Pacheco Ondoño - joanpaon@gmail.com.
+ * Copyright 2024 Guillem Vicente - guillem.vicente.juan@gmail.com
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -23,7 +23,7 @@ import org.japo.java.entities.libro.LibroDAM;
 
 /**
  *
- * @author José A. Pacheco Ondoño - joanpaon@gmail.com
+ * @author Guillem Vicente - guillem.vicente.juan@gmail.com
  */
 public final class DAM {
     // Propiedades Aplicación
